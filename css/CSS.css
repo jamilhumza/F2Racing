@@ -1,0 +1,10 @@
+.center,
+.aligncenter,
+img[align='middle'] {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  float: none;
+  clear: both;
+}
